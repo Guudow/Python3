@@ -9,3 +9,4 @@ company = input("Enter Company name")
 print('printing Employee details')
 print("name ", 'salary', 'Company')
 print(name, salary, company)
+
